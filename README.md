@@ -1,7 +1,16 @@
 
 
+<html>
+<head>
+   
+</head>
 
-<table>
+
+
+
+<body>
+
+<table border="20px " >
 <tr>
     <td> <h1 align="center">
         Hi there I am Sushmitha!
@@ -11,7 +20,7 @@
    
 </tr>
 
-<tr>
+<tr border="1px solid white">
     <td rowspan="5">
         <div id="header" align="center">
             <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="420"/>
@@ -63,3 +72,7 @@
 ### :fire: My Stats :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushmithaa20&" alt="
 sushmithaa20" /></p>
+
+</body>
+
+</html>
