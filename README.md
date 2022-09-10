@@ -59,4 +59,5 @@ I am a Student studing at MITE specialzing in CSE <img src="https://media.giphy.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushmithaa20&" alt="
+sushmithaa20" /></p>
