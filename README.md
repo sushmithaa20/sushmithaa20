@@ -1,49 +1,27 @@
 
 
-<html>
-<head>
-   
-</head>
-
-
-
-
-<body>
-
-<table border="20px " >
-<tr>
-    <td> <h1 align="center">
+<h1 align="center">
         Hi there I am Sushmitha!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </h1>
-    </td>
-   
-</tr>
+</h1>
 
-<tr border="1px solid white">
-    <td rowspan="5">
-        <div id="header" align="center">
-            <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="420"/>
-          </div>
-    </td>
-    <td>
-         <b>:woman_technologist: About Me :</b><br />
-         I am a Student studing at MITE specialzing in CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-        <ul>
-            <li>
-                - :telescope:  I’m currently studying in Mangalore Institute of Technology And Engineering
-            </li>
-            <li>
-                - :seedling:  I’m currently learning Java, ReactJS
-            </li>
-            <li>
-                - :mailbox:How to reach me:<a href="https://www.linkedin.com/in/sushmitha-sushmitha-4216a9219/"> <b>Linkdin</b> </a> 
-            </li>
-             <li>
-              - :zap: I like singing.
-            </li>
-             <li>
-                :woman_technologist:Chek out my Works <br />
+
+
+
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="420"/>
+</div>
+
+
+
+:woman_technologist: About Me :
+ I am a Student studing at MITE specialzing in CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+ - :telescope:  I’m currently studying in Mangalore Institute of Technology And Engineering
+ - :seedling:  I’m currently learning Java, ReactJS
+ - :mailbox:How to reach me:<a href="https://www.linkedin.com/in/sushmitha-sushmitha-4216a9219/"> <b>Linkdin</b> </a> 
+ - :zap: I like singing.
+ 
+  :woman_technologist:Chek out my Works <br />
                 <ul>
                 <li><a href="https://chat-app-155d5.web.app/">Chat Box(ReactJs)</a></li>
                 <li><a href="https://restaurantandhotelqueue.000webhostapp.com/index.php">Restaurant And Hotel Queue</a></li>
@@ -51,13 +29,7 @@
                 <li><a href="https://sushmithaa20.github.io/ProfileCard/">Profilr Card</a></li>
                 <li><a href="https://sushmithaa20.github.io/todo/">to-do</a></li>
                 </ul>
-            </li>
-         </ul> 
-    </td>
-</tr>
-    
-</tr>
-</table>
+ 
 
 
 <!-- labguage -->
