@@ -1,33 +1,44 @@
 
-<!-- hi -->
-
-<h1 align="center">
-  Hi there I am Sushmitha!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
-</div>
+<table>
+<tr>
+    <td> <h1 align="center">
+        Hi there I am Sushmitha!
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      </h1>
+    </td>
+   
+</tr>
 
-
-
-
-
-<!-- about section -->
----
-
-### :woman_technologist: About Me :
-I am a Student studing at MITE specialzing in CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- :telescope:  I’m currently studying in Mangalore Institute of Technology And Engineering
-
-- :seedling:  I’m currently learning Java, ReactJS
-
-- :mailbox:How to reach me: sushmitha.20.2001@gmail.com
-
-- :zap: I like singing.
-
+<tr>
+    <td rowspan="5">
+        <div id="header" align="center">
+            <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="420"/>
+          </div>
+    </td>
+    <td>
+         <b>:woman_technologist: About Me :</b><br />
+         I am a Student studing at MITE specialzing in CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+        <ul>
+            <li>
+                - :telescope:  I’m currently studying in Mangalore Institute of Technology And Engineering
+            </li>
+            <li>
+                - :seedling:  I’m currently learning Java, ReactJS
+            </li>
+            <li>
+                - :mailbox:How to reach me: sushmitha.20.2001@gmail.com  
+            </li>
+            <li>
+              - :zap: I like singing.
+            </li>
+         </ul> 
+    </td>
+</tr>
+    
+</tr>
+</table>
 
 
 <!-- labguage -->
