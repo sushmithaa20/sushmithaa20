@@ -1,15 +1,18 @@
 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
-</div>
-
-
 <!-- hi -->
 
 <h1 align="center">
   Hi there I am Sushmitha!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
+</div>
+
+
+
 
 
 <!-- about section -->
