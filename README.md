@@ -48,6 +48,7 @@
                 <li><a href="https://chat-app-155d5.web.app/">Chat Box(ReactJs)</a></li>
                 <li><a href="https://restaurantandhotelqueue.000webhostapp.com/index.php">Restaurant And Hotel Queue</a></li>
                 <li><a href="https://tic-tac-toe-sush.netlify.app/">Tic-Tac-Toe(ReactJs)</a></li>
+                <li><a href="https://sushmithaa20.github.io/ProfileCard/">Profilr Card</a></li>
                 <li><a href="https://sushmithaa20.github.io/todo/">to-do</a></li>
                 </ul>
             </li>
