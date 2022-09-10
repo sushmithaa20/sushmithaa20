@@ -37,10 +37,19 @@
                 - :seedling:  I’m currently learning Java, ReactJS
             </li>
             <li>
-                - :mailbox:How to reach me: sushmitha.20.2001@gmail.com  
+                - :mailbox:How to reach me:<a href="https://www.linkedin.com/in/sushmitha-sushmitha-4216a9219/"> <b>Linkdin</b> </a> 
             </li>
-            <li>
+             <li>
               - :zap: I like singing.
+            </li>
+             <li>
+                :woman_technologist:Chek out my Works <br />
+                <ul>
+                <li><a href="https://chat-app-155d5.web.app/">Chat Box(ReactJs)</a></li>
+                <li><a href="https://restaurantandhotelqueue.000webhostapp.com/index.php">Restaurant And Hotel Queue</a></li>
+                <li><a href="https://tic-tac-toe-sush.netlify.app/">Tic-Tac-Toe(ReactJs)</a></li>
+                <li><a href="https://sushmithaa20.github.io/todo/">to-do</a></li>
+                </ul>
             </li>
          </ul> 
     </td>
