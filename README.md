@@ -20,16 +20,18 @@
  I am a Student studing at MITE specialzing in CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
  - :telescope:  I’m currently studying in Mangalore Institute of Technology And Engineering
  - :seedling:  I’m currently learning Java, ReactJS
- - :mailbox:How to reach me:<a href="https://www.linkedin.com/in/sushmitha-sushmitha-4216a9219/"> <b>Linkdin</b> </a> 
+ - :mailbox:How to reach me:<a href="https://www.linkedin.com/in/sushmitha-angadi/"> <b>Linkdin</b> </a> 
  - :zap: I like singing.
  
   :woman_technologist:Chek out my Works <br />
                 <ul>
                  <li><a href="https://sushmithaa.netlify.app/">My Portfolio</a></li>
+                 <li><a href="https://touchreno.netlify.app/">Landing Page of TouchReno App</a></li>
                 <li><a href="https://chat-app-155d5.web.app/">Chat Box(ReactJs)</a></li>
                 <li><a href="https://restaurantandhotelqueue.000webhostapp.com/index.php">Restaurant And Hotel Queue</a></li>
                 <li><a href="https://tic-tac-toe-sush.netlify.app/">Tic-Tac-Toe(ReactJs)</a></li>
                 <li><a href="https://sushmithaa20.github.io/ProfileCard/">Profilr Card</a></li>
+                <li><a href="https://library-managment-reactjs.netlify.app/">Library Managment(React js)</a></li>
                 <li><a href="https://sushmithaa20.github.io/todo/">to-do</a></li>
                 </ul>
  
