@@ -17,11 +17,11 @@
 
 
 :woman_technologist: About Me :
- I am a Student studing at MITE specialzing in CSE <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
- - :telescope:  I’m currently studying in Mangalore Institute of Technology And Engineering
- - :seedling:  I’m currently learning Java, ReactJS
- - :mailbox:How to reach me:<a href="https://www.linkedin.com/in/sushmitha-angadi/"> <b>Linkdin</b> </a> 
- - :zap: I like singing.
+ About Me: I am a recent graduate with a Bachelor's degree in Computer Science Engineering from Mangalore Institute of Technology And Engineering, where I graduated with a remarkable 9.0 CGPA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+ - :telescope:   I am currently employed in the automation field, working with tools like Selenium and Appium. My role involves scripting in Java to automate tasks for Resideo Smart Home Technologies. You can find my contributions on GitHub in the readme script of our projects.
+ - :seedling:  My continuous learning journey includes honing my skills in Java and ReactJS, which I find immensely rewarding.
+ - :mailbox:Feel free to connect with me on LinkedIn:<a href="https://www.linkedin.com/in/sushmitha-angadi/"> <b>Linkdin</b> </a> 
+ - :zap: Outside of work, I have a passion for singing that keeps me inspired and creative.
  
   :woman_technologist:Chek out my Works <br />
                 <ul>
