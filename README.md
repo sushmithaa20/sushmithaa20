@@ -17,10 +17,10 @@
 
 
 :woman_technologist: About Me :
- About Me: I am a recent graduate with a Bachelor's degree in Computer Science Engineering from Mangalore Institute of Technology And Engineering, where I graduated with a remarkable 9.0 CGPA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
- - :telescope:   I am currently employed in the automation field, working with tools like Selenium and Appium. My role involves scripting in Java to automate tasks for Resideo Smart Home Technologies. You can find my contributions on GitHub in the readme script of our projects.
- - :seedling:  My continuous learning journey includes honing my skills in Java and ReactJS, which I find immensely rewarding.
- - :mailbox:Feel free to connect with me on LinkedIn:<a href="https://www.linkedin.com/in/sushmitha-angadi/"> <b>Linkdin</b> </a> 
+  Recent CSE graduate with a stellar 9.0 CGPA from MITE. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+ - :telescope:   Currently scripting automation solutions using Java, Selenium, and Appium at Resideo Smart Home Technologies.
+ - :seedling:  Ongoing learning in Java and ReactJS.
+ - :mailbox:Connect with me on LinkedIn:<a href="https://www.linkedin.com/in/sushmitha-angadi/"> <b>Linkdin</b> </a> 
  - :zap: Outside of work, I have a passion for singing that keeps me inspired and creative.
  
   :woman_technologist:Chek out my Works <br />
